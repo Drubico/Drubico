@@ -44,8 +44,8 @@ Property | Data
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/twitter.svg" alt="Drubico" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/linkedin.svg" alt="Drubico" height="30" width="30" /></a>
+<a href="https://twitter.com/dilverpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/twitter.svg" alt="Drubico" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/drubico" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/linkedin.svg" alt="Drubico" height="30" width="30" /></a>
 <a href="mailto:drubico@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <!-- <a href="https://api.whatsapp.com/send?phone=+50377777777" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p> -->
