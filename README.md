@@ -21,6 +21,6 @@ Property | Data
 
 **📫 How to Reach me:**
 <p align="left">
-<a href="https://twitter.com/dilverpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/twitter.svg" alt="Drubico" height="30" width="30" /></a>
+<a href="https://twitter.com/hiddenhit" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/twitter.svg" alt="Drubico" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/drubico" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/linkedin.svg" alt="Drubico" height="30" width="30" /></a>
 <a href="mailto:drubico@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/Drubico/Drubico/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
