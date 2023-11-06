@@ -32,6 +32,6 @@ Soy un apasionado desarrollador de aplicaciones con un enfoque en la creación d
 
 #### Conversemos
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes. ¡No dudes en contactarme a través de [tu dirección de correo electrónico] o en [tu enlace a LinkedIn] si deseas hablar sobre proyectos interesantes o simplemente para intercambiar ideas.
+Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes.
 
 ¡Gracias por visitar mi perfil de GitHub!
