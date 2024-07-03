@@ -4,10 +4,6 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Drubico.Drubico" alt="visitors"/>   
 </p>
 
-<p align="center">
-  <img src="./src/ia_img.jpg" alt="Descripción de la imagen" style="width: 80%; max-height: 150px; object-fit: cover;">
-</p>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F707DE&random=false&width=435&lines=Hola+mi+nombre+es+Diego;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
 
 # Hola, soy Diego Rubi 👋
