@@ -34,6 +34,6 @@ Aprende lenguaje de señas Salvadoreño con Lessa.
 
 ## 📫 Conversemos
 
-Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes. Puedes contactarme a través de [LinkedIn](tu perfil de LinkedIn) o por [email](tu email).
+Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes. Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/drubico/) o por [email](drubico@gmail.com).
 
 ¡Gracias por visitar mi perfil de GitHub!
