@@ -1,39 +1,23 @@
-<p align="center">
-    <a href="https://github.com/Drubico/Drubico/graphs/contributors"><img src="https://img.shields.io/github/contributors/Drubico/Drubico?color=blue"></a>
-    <a href="https://github.com/Drubico/Drubico/stargazers"><img src="https://img.shields.io/github/stars/Drubico/Drubico.svg?logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Drubico.Drubico" alt="visitors"/>   
-</p>
+<p align="center"> <a href="https://github.com/Drubico/Drubico/graphs/contributors"><img src="https://img.shields.io/github/contributors/Drubico/Drubico?color=blue"></a> <a href="https://github.com/Drubico/Drubico/stargazers"><img src="https://img.shields.io/github/stars/Drubico/Drubico.svg?logo=github"></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Drubico.Drubico" alt="visitors"/> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F707DE&random=false&width=435&lines=Hola+mi+nombre+es+Diego;Bienvenido+a+mi+perfil)](https://git.io/typing-svg)
+Hola, soy Diego Rubi 👋
+Soy un desarrollador de aplicaciones móviles con pasión por crear soluciones innovadoras que resuelvan problemas reales. Me especializo en Kotlin, Java, y Node.js, y siempre estoy buscando nuevas herramientas y tecnologías para mejorar mis proyectos.
 
-# Hola, soy Diego Rubi 👋
+🚀 ¿Qué hago?
+Desarrollo de Aplicaciones: Diseño y creo aplicaciones móviles y web para ofrecer experiencias de usuario excepcionales.
+Tecnologías: Trabajo principalmente con Kotlin, Java, Node.js, y me especializo en Jetpack Compose para el desarrollo de Android.
+Código Abierto: Soy un colaborador activo en proyectos de código abierto y me encanta contribuir a la comunidad global de desarrolladores.
+🌟 Proyectos Destacados
+Tin Marin
+Un proyecto educativo para aprender sobre el Museo Tin Marin de manera dinámica e interactiva.
 
-Soy un apasionado desarrollador de aplicaciones con un enfoque en la creación de soluciones innovadoras y experiencias de usuario excepcionales. Mi viaje en el mundo del desarrollo comenzó con mi curiosidad por la tecnología y mi deseo de crear aplicaciones que resuelvan problemas reales.
+Lessa
+Una aplicación para aprender Lenguaje de Señas Salvadoreño, con un enfoque accesible y educativo.
 
-## ¿Qué hago?
+🎯 Portafolio
+<div style="text-align: center;"> <a href="https://drubico.github.io/portfolio/"> <img src="https://cdn-icons-png.flaticon.com/512/6361/6361498.png" alt="Icono de Portafolio" width="150" height="150"> </a> </div>
+📫 Conversemos
+Estoy abierto a nuevas oportunidades y colaboraciones emocionantes. Si quieres hablar sobre tecnología, proyectos, o simplemente conectarte, puedes contactarme a través de LinkedIn o por email.
 
-- **Desarrollo de Aplicaciones:** Creo aplicaciones móviles y web que mejoran la vida de las personas y hacen que las tareas diarias sean más fáciles y eficientes.
-- **Tecnologías:** Me especializo en **Kotlin, Java, Node.js** y siempre estoy aprendiendo y experimentando con nuevas herramientas y marcos de trabajo.
-- **Código Abierto:** Me enorgullece ser un colaborador activo en proyectos de código abierto y contribuir a la comunidad de desarrolladores.
+¡Gracias por visitar mi perfil! 🙌
 
-## 🌟 Proyectos Destacados
-
-### Proyecto 1: [Tin Marin](https://github.com/Tin-Marin)
-Proyecto para aprender mas sobre el museo tin marin de forma dinamica y entretenida.
-
-### Proyecto 2: [Lessa](https://github.com/DEV-ART-RAT/LESSA)
-Aprende lenguaje de señas Salvadoreño con Lessa.
-
-## 📂 Portafolio
-
-<div style="text-align: center;">
-  <a href="https://drubico.github.io/portfolio/">
-    <img src="https://cdn-icons-png.flaticon.com/512/6361/6361498.png" alt="Icono de Portafolio" width="150" height="150">
-  </a>
-</div>
-
-## 📫 Conversemos
-
-Estoy siempre abierto a nuevas oportunidades y colaboraciones emocionantes. Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/drubico/) o por [email](drubico@gmail.com).
-
-¡Gracias por visitar mi perfil de GitHub!
