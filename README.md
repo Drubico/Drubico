@@ -1,4 +1,3 @@
-# Diego Rubi - Mobile Developer
 
 <table>
     <tr>
