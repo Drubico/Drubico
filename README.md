@@ -42,6 +42,42 @@ Soy un desarrollador móvil de El Salvador con experiencia en Kotlin y Flutter, 
    - Página web dinámica en WordPress para [The Virtual Buddy](#).
 
 ---
+# Portafolio
+
+## Sobre mí  
+Soy un desarrollador especializado en Android y amante de las buenas prácticas de programación como **Clean Architecture** y los principios **SOLID**. También tengo experiencia en Flutter y Angular.
+
+---
+
+## Proyectos  
+### 1. **Liga SIP**  
+Aplicación para consultar resultados de la liga SIP con un enfoque informativo y sin almacenamiento de datos sensibles.  
+![Liga SIP](assets/liga-sip.png)
+
+### 2. **Dires Cup**  
+Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.  
+![Dires Cup](assets/dires-cup.png)
+
+### 3. **Salario Mensual y Quincenal**  
+Aplicación para calcular el salario líquido aplicando descuentos legales como AFP, ISSS, y renta.  
+![Salario App](assets/salario-app.png)
+
+---
+
+## Redes Sociales  
+- [**LinkedIn**](https://www.linkedin.com/in/tu-usuario-linkedin)  
+  Conéctate conmigo para explorar mi experiencia profesional y proyectos.  
+  ![LinkedIn](assets/linkedin-logo.png)
+
+---
+
+## Descarga mis Aplicaciones  
+- [**Google Play Store**](https://play.google.com/store/apps/developer?id=tu-id-developer)  
+  Descarga y explora mis aplicaciones en la tienda oficial de Android.  
+  ![Google Play](assets/google-play-logo.png)
+
+---
+
 
 ## 📞 Contacto
 
