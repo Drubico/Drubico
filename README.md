@@ -1,16 +1,14 @@
-
 <div style="display: flex; align-items: center; gap: 20px;">
     <img src="./assets/images/my-avatar.png" alt="Avatar" width="150" style="border-radius: 50%;">
     <div>
-        <h1>Diego Rubi - Mobile Developer</h1>
-        <p>
+        <h1 style="margin: 0;">Diego Rubi - Mobile Developer</h1>
+        <p style="margin: 0;">
             Soy un desarrollador móvil de El Salvador con experiencia en Kotlin y Flutter, 
             trabajando en el desarrollo de aplicaciones y soluciones digitales. Me especializo 
             en crear aplicaciones funcionales, atractivas y fáciles de usar.
         </p>
     </div>
 </div>
-
 
 ---
 
