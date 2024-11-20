@@ -83,7 +83,6 @@ Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, c
 ## 📞 Contacto
 
 - **Email:** [drubico@gmail.com](mailto:drubico@gmail.com)  
-- **Teléfono:** [+503 78508012](tel:+50378508012)  
 - **Ubicación:** San Salvador, El Salvador  
 
 [Visita mi portafolio aquí](https://drubico.github.io/portfolio/)
