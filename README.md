@@ -1,25 +1,52 @@
-<p align="center"> <a href="https://github.com/Drubico/Drubico/graphs/contributors"><img src="https://img.shields.io/github/contributors/Drubico/Drubico?color=blue"></a> <a href="https://github.com/Drubico/Drubico/stargazers"><img src="https://img.shields.io/github/stars/Drubico/Drubico.svg?logo=github"></a> <img src="https://visitor-badge.laobi.icu/badge?page_id=Drubico.Drubico" alt="visitors"/> </p>
+# Diego Rubi - Mobile Developer
 
-Hola, soy Diego Rubi 👋
+![Avatar](./assets/images/my-avatar.png)
 
+## Sobre mí
 
-Soy un desarrollador de aplicaciones móviles con pasión por crear soluciones innovadoras que resuelvan problemas reales. Me especializo en Kotlin, Java, y Node.js, y siempre estoy buscando nuevas herramientas y tecnologías para mejorar mis proyectos.
+Soy un desarrollador móvil de El Salvador con experiencia en Kotlin y Flutter, trabajando en el desarrollo de aplicaciones y soluciones digitales. Me especializo en crear aplicaciones funcionales, atractivas y fáciles de usar.
 
-🚀 ¿Qué hago?
+---
 
+## 💼 ¿Qué hago?
 
-Desarrollo de Aplicaciones: Diseño y creo aplicaciones móviles y web para ofrecer experiencias de usuario excepcionales.
-Tecnologías: Trabajo principalmente con Kotlin, Java, Node.js, y me especializo en Jetpack Compose para el desarrollo de Android.
-Código Abierto: Soy un colaborador activo en proyectos de código abierto y me encanta contribuir a la comunidad global de desarrolladores.
+- **Aplicaciones móviles**  
+  Desarrollo profesional de aplicaciones Android con Kotlin y Flutter, aprendiendo Swift.
+- **Desarrollo web**  
+  Aprendiendo tecnologías web para complementar mis habilidades.
 
+---
 
+## 🛠️ Habilidades
 
-🎯 Portafolio
-<div style="text-align: center;"> <a href="https://drubico.github.io/portfolio/"> <img src="https://cdn-icons-png.flaticon.com/512/6361/6361498.png" alt="Icono de Portafolio" width="150" height="150"> </a> </div>
+| Habilidad               | Nivel |
+|-------------------------|-------|
+| Android (Kotlin/Java)   | 80%   |
+| Flutter Developer       | 60%   |
+| Backend con Node.js     | 60%   |
+| WordPress               | 50%   |
 
+---
 
-📫 Conversemos
-Estoy abierto a nuevas oportunidades y colaboraciones emocionantes. Si quieres hablar sobre tecnología, proyectos, o simplemente conectarte, puedes contactarme a través de LinkedIn o por email.
+## 📂 Portafolio
 
-¡Gracias por visitar mi perfil! 🙌
+### 🖥️ Proyectos destacados
 
+1. **Aplicaciones móviles**  
+   - Aplicación para [Secretaría de Innovación](#)  
+     Desarrollada con Kotlin y Jetpack Compose.
+   - Aplicación para [Ministerio de Salud](#)  
+     Mantención y mejora de apps nativas con Kotlin.
+
+2. **Proyectos web**  
+   - Página web dinámica en WordPress para [The Virtual Buddy](#).
+
+---
+
+## 📞 Contacto
+
+- **Email:** [drubico@gmail.com](mailto:drubico@gmail.com)  
+- **Teléfono:** [+503 78508012](tel:+50378508012)  
+- **Ubicación:** San Salvador, El Salvador  
+
+[Visita mi portafolio aquí](https://drubico.github.io/portfolio/)
