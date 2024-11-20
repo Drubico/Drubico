@@ -1,6 +1,6 @@
 # Diego Rubi - Mobile Developer
 
-![Avatar](./assets/images/my-avatar.png)
+<img src="./assets/images/my-avatar.png" alt="Avatar" width="200" height="200">
 
 ## Sobre mí
 
