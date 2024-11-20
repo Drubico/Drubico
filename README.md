@@ -50,31 +50,28 @@ Soy un desarrollador especializado en Android y amante de las buenas prácticas 
 ---
 
 ## Proyectos  
-### 1. **Liga SIP**  
-Aplicación para consultar resultados de la liga SIP con un enfoque informativo y sin almacenamiento de datos sensibles.  
-![Liga SIP](assets/liga-sip.png)
+### 1. **Combo Vip**  
+Aplicación para seleccionar premios con los puntos que se han acumulado por ser cliente frecuente.  
+![Liga SIP](./assets/images/combo-vip.png)
 
 ### 2. **Dires Cup**  
 Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.  
-![Dires Cup](assets/dires-cup.png)
+![Dires Cup](./assets/images/direscup.png)
 
-### 3. **Salario Mensual y Quincenal**  
-Aplicación para calcular el salario líquido aplicando descuentos legales como AFP, ISSS, y renta.  
-![Salario App](assets/salario-app.png)
 
 ---
 
 ## Redes Sociales  
-- [**LinkedIn**](https://www.linkedin.com/in/tu-usuario-linkedin)  
+- [**LinkedIn**](https://www.linkedin.com/in/drubico)  
   Conéctate conmigo para explorar mi experiencia profesional y proyectos.  
-  ![LinkedIn](assets/linkedin-logo.png)
+  ![LinkedIn](./assets/images/placeholder-linkedin.png)
 
 ---
 
 ## Descarga mis Aplicaciones  
-- [**Google Play Store**](https://play.google.com/store/apps/developer?id=tu-id-developer)  
+- [**Google Play Store**](https://play.google.com/store/apps/dev?id=5906834204268116327)  
   Descarga y explora mis aplicaciones en la tienda oficial de Android.  
-  ![Google Play](assets/google-play-logo.png)
+  ![Google Play](./assets/images/placeholder-play-store.png)
 
 ---
 
