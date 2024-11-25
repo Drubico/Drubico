@@ -64,8 +64,8 @@ Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, c
 ![Dires Cup](./assets/images/direscup.png)
 
 ### 3. **Salario SV**  
-Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.
-- [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubi.salariosv)  
+Una para que conozcas tu salario despues de descuentos.
+- [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubico.salariosv)  
 ![Dires Cup](./assets/images/salario-sv.png)
 
 ---
