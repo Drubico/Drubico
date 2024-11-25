@@ -9,6 +9,7 @@
         </p>
     </div>
 </div>
+[Visita mi portafolio aquí](https://drubico.github.io/portfolio/)
 
 ---
 
@@ -90,4 +91,3 @@ Una para que conozcas tu salario despues de descuentos.
 - **Email:** [drubico@gmail.com](mailto:drubico@gmail.com)  
 - **Ubicación:** San Salvador, El Salvador  
 
-[Visita mi portafolio aquí](https://drubico.github.io/portfolio/)
