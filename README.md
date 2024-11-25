@@ -59,7 +59,8 @@ Aplicación para seleccionar premios con los puntos que se han acumulado por ser
 ![Liga SIP](./assets/images/combo-vip.png)
 
 ### 2. **Dires Cup**  
-Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.  
+Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.
+- [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubi.diresCup)  
 ![Dires Cup](./assets/images/direscup.png)
 
 
