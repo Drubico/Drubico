@@ -9,7 +9,7 @@
         </p>
     </div>
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical)](https://github.com/drubico/github-readme-stats)
 
 - [**Visita mi portafolio aquí**](https://drubico.github.io/portfolio/)  
 
