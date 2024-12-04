@@ -37,7 +37,7 @@
 
 ## 📂 Portafolio
 
-### 🖥️ Proyectos destacados
+### 🖥️ Experiencia laboral
 
 1. **Aplicaciones móviles**  
    - Aplicación para [Secretaría de Innovación](#)  
@@ -56,7 +56,7 @@ Soy un desarrollador especializado en Android y amante de las buenas prácticas 
 
 ---
 
-## Proyectos  
+## Proyectos Destacados
 ### 1. **Combo Vip**  
 Aplicación para seleccionar premios con los puntos que se han acumulado por ser cliente frecuente.  
 ![Liga SIP](./assets/images/combo-vip.png)
