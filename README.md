@@ -60,8 +60,8 @@
    - Desarollador de Aplicaciónes para [Ministerio de Salud](#)  
      Mantención y mejora de apps nativas con Kotlin y java.
      
-   - Desarollador de Aplicaciónes para [Cluster Empresarial](#)
-     Desarrollada con Kotlin y Jetpack Compose.
+   - Desarollador de Aplicaciónes para [Cluster Empresarial](#)  
+     Desarrolladas con Kotlin y Jetpack Compose.
 
 3. **Proyectos web**
    
