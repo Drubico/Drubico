@@ -16,11 +16,13 @@
         </p>
     </div>
 </div>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="200">
+</div>
 
-
-   ![Visits](https://komarev.com/ghpvc/?username=drubico)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical)](https://github.com/drubico/github-readme-stats)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical" alt="stats" width="300">
+</div>
 
 - [**Visita mi portafolio aquí**](https://drubico.github.io/portfolio/)  
 
