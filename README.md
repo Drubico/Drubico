@@ -61,7 +61,8 @@
      Mantención y mejora de apps nativas con Kotlin y java.
      
    - Desarollador de Aplicaciónes para [Cluster Empresarial](#)
-     Desarrollada con Kotlin y Jetpack Compose.
+
+      Desarrollada con Kotlin y Jetpack Compose.
 
 3. **Proyectos web**
    
