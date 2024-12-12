@@ -52,14 +52,22 @@
 
 ### 🖥️ Experiencia laboral
 
-1. **Aplicaciones móviles**  
-   - Aplicación para [Secretaría de Innovación](#)  
+1. **Aplicaciones móviles**
+   
+   - Desarollador de Aplicaciónes para [Secretaría de Innovación](#)  
      Desarrollada con Kotlin y Jetpack Compose.
-   - Aplicación para [Ministerio de Salud](#)  
+     
+   - Desarollador de Aplicaciónes para [Ministerio de Salud](#)  
      Mantención y mejora de apps nativas con Kotlin.
+     
+   - Desarollador de Aplicaciónes para [Cluster Empresarial](#).
+     Desarrollada con Kotlin y Jetpack Compose.
 
-2. **Proyectos web**  
-   - Página web dinámica en WordPress para [The Virtual Buddy](#).
+3. **Proyectos web**
+   
+   - Desarollador de páginas web en WordPress para [The Virtual Buddy](#).
+     
+   - Desarollador de páginas web en Blazor para [Cluster Empresarial](#).
 
 ---
 
