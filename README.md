@@ -111,16 +111,19 @@ Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, c
 
 - [**LinkedIn**](https://www.linkedin.com/in/drubico)  
   Conéctate conmigo para explorar mi experiencia profesional y proyectos.  
-  ![LinkedIn](./assets/images/placeholder-linkedin.png)
-
+<div align="center">
+    <img src="./assets/images/placeholder-linkedin.png" alt="LinkedIn" width="200">
+</div>
 ---
 
 ## Descarga mis Aplicaciones  
 
 - [**Google Play Store**](https://play.google.com/store/apps/dev?id=5906834204268116327)  
-  Descarga y explora mis aplicaciones en la tienda oficial de Android.  
-  ![Google Play](./assets/images/placeholder-play-store.png)
-
+  Descarga y explora mis aplicaciones en la tienda oficial de Android.
+  
+<div align="center">
+    <img src="./assets/images/placeholder-play-store.png" alt="Google Play" width="200">
+</div>
 ---
 
 ## 📞 Contacto
