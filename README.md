@@ -86,17 +86,49 @@ Soy un desarrollador especializado en Android y amante de las buenas prácticas 
 Aplicación para seleccionar premios con los puntos que se han acumulado por ser cliente frecuente.  
 ![Liga SIP](./assets/images/combo-vip.png)
 
+# Descripcion
+
+## Pagina web
+
+### Tecnologias
+
+- C#
+- Blazor
+- Tailwind
+
 ### 2. **FinFlex**  
 
 Aplicación administrar tus tarjetas de credito y los pagos pendientes.  
-![Liga SIP](./assets/images/finflex.png)
+![Fin Flex](./assets/images/finflex.png)
+
+# Descripcion
+
+## Aplicacion android
+
+### Tecnologias
+
+- Kotlin - Jetpack compose
+- Hilt
+- Firebase
+- Mvvm - Clean Architecture
 
 ### 3. **Salario SV**  
 
 Una para que conozcas tu salario despues de descuentos.
 
 - [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubico.salariosv)  
-![Dires Cup](./assets/images/salario-sv.png)
+![Salario Sv](./assets/images/salario-sv.png)
+
+# Descripcion
+
+## Aplicacion android
+
+### Tecnologias
+
+- Kotlin - Jetpack compose
+- Koin
+- Firebase
+- Mvvm - Clean Architecture
 
 ### 4. **Dires Cup**  
 
@@ -105,6 +137,16 @@ Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, c
 - [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubi.diresCup)  
 ![Dires Cup](./assets/images/direscup.png)
 
+# Descripcion
+
+## Aplicacion android
+
+### Tecnologias
+
+- Kotlin - Jetpack compose
+- Hilt
+- Firebase
+- Mvvm - Clean Architecture
 ---
 
 ## Redes Sociales  
