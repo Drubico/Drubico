@@ -154,7 +154,9 @@ Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, c
 - [**LinkedIn**](https://www.linkedin.com/in/drubico)  
   Conéctate conmigo para explorar mi experiencia profesional y proyectos.  
 <div align="center">
-    <img src="./assets/images/placeholder-linkedin.png" alt="LinkedIn" width="500">
+    <div class="LI-profile-badge" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="drubico">
+		<a class="LI-simple-link" href="https://in.linkedin.com/in/drubico?trk=profile-badge"> Diego Alejandro Rubi </a>
+	</div>
 </div>
 ---
 
