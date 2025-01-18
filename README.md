@@ -81,38 +81,7 @@ Soy un desarrollador especializado en Android y amante de las buenas prácticas 
 
 ## Proyectos Destacados
 
-### 1. **Combo Vip**  
-
-Aplicación para seleccionar premios con los puntos que se han acumulado por ser cliente frecuente.  
-![Liga SIP](./assets/images/combo-vip.png)
-
-# Descripcion
-
-## Pagina web
-
-### Tecnologias
-
-- C#
-- Blazor
-- Tailwind
-
-### 2. **FinFlex**  
-
-Aplicación administrar tus tarjetas de credito y los pagos pendientes.  
-![Fin Flex](./assets/images/finflex.png)
-
-# Descripcion
-
-## Aplicacion android
-
-### Tecnologias
-
-- Kotlin - Jetpack compose
-- Hilt
-- Firebase
-- Mvvm - Clean Architecture
-
-### 3. **Salario SV**  
+### 1. **Salario SV**  
 
 Una para que conozcas tu salario despues de descuentos.
 
@@ -130,7 +99,27 @@ Una para que conozcas tu salario despues de descuentos.
 - Firebase
 - Mvvm - Clean Architecture
 
-### 4. **Dires Cup**  
+---
+
+### 2. **FinFlex**  
+
+Aplicación administrar tus tarjetas de credito y los pagos pendientes.  
+![Fin Flex](./assets/images/finflex.png)
+
+# Descripcion
+
+## Aplicacion android
+
+### Tecnologias
+
+- Kotlin - Jetpack compose
+- Hilt
+- Firebase
+- Mvvm - Clean Architecture
+
+---
+
+### 3. **Dires Cup**  
 
 Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.
 
@@ -147,6 +136,25 @@ Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, c
 - Hilt
 - Firebase
 - Mvvm - Clean Architecture
+
+---
+
+
+### 4. **Combo Vip**  
+
+Aplicación para seleccionar premios con los puntos que se han acumulado por ser cliente frecuente.  
+![Liga SIP](./assets/images/combo-vip-web.png)
+
+# Descripcion
+
+## Pagina web
+
+### Tecnologias
+
+- C#
+- Blazor
+- Tailwind
+
 ---
 
 ## Redes Sociales  
