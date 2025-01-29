@@ -18,11 +18,8 @@
 </div>
 
 <div align="center">
-    <h3>
-        <a href="https://diego-rubi.is-a.dev/" target="_blank">
-            Diego Rubi - Page
-        </a>
-    </h3>
+    🌐 **・𐤉・** → [diego-rubi.is-a.dev](https://diego-rubi.is-a.dev) ← **・𐤉・** 🖥️
+
 </div>
 
 <div align="center" style="margin: 0 10px 0 20px;">
