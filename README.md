@@ -18,12 +18,10 @@
 </div>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-        <h1 style="margin: 0;">
-            <a href="https://diego-rubi.is-a.dev/" target="_blank"> Diego Rubi - Page
-        </h1>
+        <h4>
+            <a href="https://diego-rubi.is-a.dev/" target="_blank" > Diego Rubi - Page
+        </h4>
 </div>
-
-- [**Diego Rubi Page**](https://diego-rubi.is-a.dev)  
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
