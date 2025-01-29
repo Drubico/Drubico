@@ -17,13 +17,7 @@
     </div>
 </div>
 
-<center>
-    <h3>
-        <a href="https://diego-rubi.is-a.dev/" target="_blank">
-            Diego Rubi - Page
-        </a>
-    </h3>
-</center>
+### [Diego Rubi - Page](https://diego-rubi.is-a.dev/){:target="_blank"}
 
 <div align="center" style="margin: 0 10px 0 20px;">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
