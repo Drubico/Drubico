@@ -2,7 +2,7 @@
     <img src="./assets/images/my-avatar.png" alt="Avatar" width="240">
 </div>
 
-
+---
 
 <div style="display: flex; align-items: center; gap: 20px;">
     <div>
@@ -17,8 +17,7 @@
     </div>
 </div>
 
-
-
+---
 
 <div align="center">
 
@@ -27,11 +26,7 @@
 
 </div>
 
-
-
-
-
-
+---
 
 <div align="center" style="margin: 0 10px 0 20px;">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
