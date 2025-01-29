@@ -17,10 +17,21 @@
     </div>
 </div>
 
+
+
+
 <div align="center">
-    🌐 **・𐤉・** → [diego-rubi.is-a.dev](https://diego-rubi.is-a.dev) ← **・𐤉・** 🖥️
+
+[**[🌐] → [Diego Rubí](https://diego-rubi.is-a.dev) ← [💻]**]  
+`⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔`
 
 </div>
+
+
+
+
+
+
 
 <div align="center" style="margin: 0 10px 0 20px;">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
