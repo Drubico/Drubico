@@ -17,7 +17,7 @@
     </div>
 </div>
 
-<div style="text-align: center; margin: 20px;">
+<div align="center" style="text-align: center; margin: 20px;">
     <h3>
         <a href="https://diego-rubi.is-a.dev/" target="_blank" style="text-decoration: none; color: #333;">
             Diego Rubi - Page
