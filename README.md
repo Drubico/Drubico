@@ -16,7 +16,7 @@
         </p>
     </div>
 </div>
-- [**Diego Rubi Page**](https://diego-rubi.is-a.dev/)
+- [**Diego Rubi Page**](https://diego-rubi.is-a.dev)  
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
