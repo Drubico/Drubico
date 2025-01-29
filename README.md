@@ -17,21 +17,9 @@
     </div>
 </div>
 
-<style>
-    .center-container {
-        text-align: center;
-        margin: 20px;
-    }
-    .custom-link {
-        text-decoration: none;
-        color: #333;
-        font-size: 1.2em;
-    }
-</style>
-
-<div class="center-container">
+<div style="text-align: center; margin: 20px;">
     <h3>
-        <a href="https://diego-rubi.is-a.dev/" target="_blank" class="custom-link">
+        <a href="https://diego-rubi.is-a.dev/" target="_blank" style="text-decoration: none; color: #333;">
             Diego Rubi - Page
         </a>
     </h3>
