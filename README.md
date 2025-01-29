@@ -17,6 +17,11 @@
     </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 20px;">
+        <h1 style="margin: 0;">
+            <a href="https://diego-rubi.is-a.dev/" target="_blank"> Diego Rubi - Page
+        </h1>
+</div>
 
 - [**Diego Rubi Page**](https://diego-rubi.is-a.dev)  
 
