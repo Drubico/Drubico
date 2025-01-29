@@ -17,13 +17,13 @@
     </div>
 </div>
 
-<div align="center"">
-    <h4>
+<div align="center" >
+    <h3>
         <a href="https://diego-rubi.is-a.dev/" target="_blank" > Diego Rubi - Page
-    </h4>
+    </h3>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 0 10px 0 20px;">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
 </div>
 
