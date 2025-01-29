@@ -17,10 +17,10 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-        <h4>
-            <a href="https://diego-rubi.is-a.dev/" target="_blank" > Diego Rubi - Page
-        </h4>
+<div align="center"">
+    <h4>
+        <a href="https://diego-rubi.is-a.dev/" target="_blank" > Diego Rubi - Page
+    </h4>
 </div>
 
 <div align="center">
