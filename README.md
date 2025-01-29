@@ -16,6 +16,7 @@
         </p>
     </div>
 </div>
+- [**Diego Rubi Page**](https://diego-rubi.is-a.dev/))  
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
@@ -25,7 +26,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical" alt="stats" width="350">
 </div>
 
-- [**Visita mi portafolio aquí**](https://drubico.github.io/)  
 
 ---
 
