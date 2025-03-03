@@ -84,7 +84,7 @@
 
 ## Sobre mí  
 
-Soy un desarrollador especializado en Android y amante de las buenas prácticas de programación como **Clean Architecture** y los principios **SOLID**. También tengo experiencia en Kotlin y Flutter,.
+Soy un desarrollador especializado en Android y amante de las buenas prácticas de programación como **Clean Architecture** y los principios **SOLID**.
 
 ---
 
