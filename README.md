@@ -53,7 +53,6 @@
 | Habilidad               | Nivel |
 |-------------------------|-------|
 | Android (Kotlin/Java)   | Avanzado   |
-| Flutter Developer       | Intermedio   |
 | Backend con Node.js     | Intermedio   |
 
 ---
