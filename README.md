@@ -62,7 +62,10 @@
 ### 🖥️ Experiencia laboral
 
 1. **Aplicaciones móviles**
-   
+
+   - Desarollador de Aplicaciónes para [PBS GROUP](#)  
+     Desarrolladas con Kotlin y Jetpack Compose.
+
    - Desarollador de Aplicaciónes para [Secretaría de Innovación](#)  
      Desarrolladas con Kotlin y Jetpack Compose.
      
