@@ -1,191 +1,166 @@
-<div align="center">
-    <img src="./assets/images/my-avatar.png" alt="Avatar" width="240">
-</div>
+
+<p align="center">
+  <img src="./assets/images/my-avatar.png" alt="Avatar Diego Rubí" width="180" />
+</p>
+
+<h1 align="center">¡Hola, soy Diego Rubí! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30" alt="Saludo"/></h1>
+
+<p align="center">
+  <b>Desarrollador Mobile & Web | Apasionado por la tecnología y la innovación</b>
+</p>
+
+<p align="center">
+  <a href="https://diego-rubi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/🌐%20Visita%20mi%20web-Diego%20Rubí-blue?style=for-the-badge" alt="Web personal"/></a>
+  <a href="https://www.linkedin.com/in/drubico" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-228B22?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
+</p>
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <div>
-        <h1 style="margin: 0;">
-          Diego Rubi - Mobile Developer
-        </h1>
-        <p style="margin: 0;">
-            Soy un desarrollador móvil de El Salvador con experiencia en Kotlin y Flutter,
-            trabajando en el desarrollo de aplicaciones y soluciones digitales. Me especializo
-            en crear aplicaciones funcionales, atractivas y fáciles de usar.
-        </p>
-    </div>
-</div>
+<p align="center">
+  <i>¡Bienvenido a mi perfil de GitHub! Aquí comparto mis proyectos, ideas y soluciones tecnológicas.<br>
+  Si quieres conocer más sobre mí, mis servicios o contactarme, visita mi web personal o mis redes.</i>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
+</p>
 
-[**[🌐] → [Diego Rubí](https://diego-rubi.is-a.dev) ← [💻]**]  
-`⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔⎔`
-
-</div>
-
----
-
-<div align="center" style="margin: 0 10px 0 20px;">
-    <img src="https://komarev.com/ghpvc/?username=drubico" alt="visitors" width="100">
-</div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical" alt="stats" width="350">
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical" alt="stats" width="350">
+</p>
 
 ---
 
-## 💼 ¿Qué hago?
+## 🧑‍💻 Resumen profesional
 
-- **Aplicaciones móviles**  
-  Desarrollo profesional de aplicaciones Android con Kotlin y Flutter, aprendiendo Swift.
-- **Desarrollo web**  
-  Aprendiendo tecnologías web para complementar mis habilidades.
+Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasiona transformar desafíos técnicos en soluciones intuitivas y estéticamente pulidas. Mi enfoque combina funcionalidad robusta con diseño atractivo, asegurando experiencias de usuario fluidas. He colaborado en el desarrollo de aplicaciones para instituciones gubernamentales y empresas privadas, implementando mejores prácticas y tecnologías modernas.
 
 ---
 
-## 🛠️ Habilidades
+## 🚀 Servicios
 
-| Habilidad               | Nivel |
-|-------------------------|-------|
-| Android (Kotlin/Java)   | Avanzado   |
-| Backend con Node.js     | Intermedio   |
+- **Desarrollo Móvil:** Creación de aplicaciones Android nativas con Kotlin, implementando arquitecturas limpias y patrones de diseño modernos.
+- **Soluciones Web:** Desarrollo de interfaces web responsivas y sistemas backend eficientes.
 
 ---
 
-## 📂 Portafolio
+## 🛠️ Habilidades Técnicas
 
-### 🖥️ Experiencia laboral
-
-1. **Aplicaciones móviles**
-
-   - Desarollador de Aplicaciónes para [PBS GROUP](#)  
-     Desarrolladas con Kotlin y Jetpack Compose.
-
-   - Desarollador de Aplicaciónes para [Secretaría de Innovación](#)  
-     Desarrolladas con Kotlin y Jetpack Compose.
-     
-   - Desarollador de Aplicaciónes para [Ministerio de Salud](#)  
-     Mantención y mejora de apps nativas con Kotlin y java.
-     
-   - Desarollador de Aplicaciónes para [Cluster Empresarial](#)  
-     Desarrolladas con Kotlin y Jetpack Compose.
-
-3. **Proyectos web**
-   
-   - Desarollador de páginas web en WordPress para [The Virtual Buddy](#).
-     
-   - Desarollador de páginas web en Blazor para [Cluster Empresarial](#).
+| Habilidad                  | Nivel        |
+|----------------------------|--------------|
+| Android (Kotlin/Java)      | Avanzado     |
+| Jetpack Compose            | Avanzado     |
+| Node.js / Express          | Intermedio   |
+| Backend RESTful            | Intermedio   |
+| Blazor / C#                | Intermedio   |
+| Firebase                   | Intermedio   |
+| Room / SQLite              | Intermedio   |
+| WordPress                  | Intermedio   |
+| CI/CD (GitHub Actions)     | Básico       |
+| Testing (JUnit, Espresso)  | Básico       |
 
 ---
 
-# Portafolio
+## 🎓 Formación Académica
 
-## Sobre mí  
-
-Soy un desarrollador especializado en Android y amante de las buenas prácticas de programación como **Clean Architecture** y los principios **SOLID**.
+- **Universidad Centroamericana José Simeón Cañas**  
+  Carrera en Ingeniería Informática (2017 — Presente)  
+  Énfasis en desarrollo de software, seguridad informática y arquitecturas de sistemas.
 
 ---
 
-## Proyectos Destacados
+## 🏢 Experiencia Laboral
 
-### 1. **Salario SV**  
+- **Desarrollador Móvil Senior - PBS GROUP** (Marzo 2025 — Presente)
+  - Desarrollo de soluciones móviles con ODK Collect y Enketo
+  - Consumo de formularios desde ODK Central aplicando Clean Architecture y buenas prácticas de Clean Code
+  - Implementación de flujos personalizados para la captura de datos en campo
+  - Integración con APIs REST y manejo avanzado de XML en Android
 
-Una para que conozcas tu salario despues de descuentos.
+- **Desarrollador Móvil Senior - Secretaría de Innovación de la Presidencia** (Octubre 2022 — Marzo 2025)
+  - Liderazgo técnico en el desarrollo de aplicaciones Android nativas usando Kotlin y Jetpack Compose
+  - Implementación de arquitecturas MVVM y Clean Architecture en proyectos críticos
+  - Integración de servicios RESTful con Retrofit y gestión de datos locales con Room
+  - Coordinación de equipos ágiles para entrega de features prioritarios
 
-- [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubico.salariosv)  
+- **Desarrollador Full Stack - Ministerio de Salud** (Febrero 2022 — Octubre 2022)
+  - Modernización de aplicaciones legacy migrando de Java a Kotlin
+  - Diseño e implementación de APIs robustas con Node.js y Express
+  - Optimización de rendimiento en aplicaciones críticas reduciendo latencia en 40%
+  - Implementación de inyección de dependencias con Dagger Hilt
+
+- **Desarrollador WordPress - The Virtual Buddy** (Enero 2021 — Junio 2021)
+  - Creación de plataformas CMS personalizadas con WordPress
+  - Diseño de temas adaptativos y optimización SEO
+  - Integración de sistemas de comercio electrónico
+
+---
+
+## 🧩 Stack Tecnológico
+
+**Lenguajes:** Kotlin, Java, JavaScript, C#, SQL  
+**Frameworks:** Jetpack Compose, Node.js, Express, Blazor  
+**Librerías:** Retrofit, Room, Hilt, Koin, Firebase, TailwindCSS
+
+---
+
+## � Proyectos Destacados
+
+### Salario SV
+
+Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tras deducciones de AFP, ISSS e ISR, con simulación de escenarios financieros.
+
+- [Ver en Play Store](https://play.google.com/store/apps/details?id=com.drubico.salariosv)
 ![Salario Sv](./assets/images/salario-sv.png)
 
-# Descripcion
-
-## Aplicacion android
-
-### Tecnologias
-
-- Kotlin - Jetpack compose
-- Koin
-- Firebase
-- Mvvm - Clean Architecture
+**Tecnologías:** Kotlin, Jetpack Compose, Koin, Firebase, MVVM, Clean Architecture
 
 ---
 
-### 2. **FinFlex**  
+### FinFlex
 
-Aplicación administrar tus tarjetas de credito y los pagos pendientes.  
+Solución financiera integral para la gestión inteligente de tarjetas de crédito, seguimiento de gastos y alertas de pago.
+
 ![Fin Flex](./assets/images/finflex.png)
 
-# Descripcion
-
-## Aplicacion android
-
-### Tecnologias
-
-- Kotlin - Jetpack compose
-- Hilt
-- Firebase
-- Mvvm - Clean Architecture
+**Tecnologías:** Kotlin, Jetpack Compose, Hilt, Firebase, MVVM, Clean Architecture
 
 ---
 
-### 3. **Dires Cup**  
+### Dires Cup
 
-Una app para visualizar resultados de partidos FIFA no oficiales entre amigos, con tablas de posiciones y soporte para múltiples divisiones.
+Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo real de marcadores y estadísticas.
 
-- [**Ver En PlayStore**](https://play.google.com/store/apps/details?id=com.drubi.diresCup)  
+- [Ver en Play Store](https://play.google.com/store/apps/details?id=com.drubi.diresCup)
 ![Dires Cup](./assets/images/direscup.png)
 
-# Descripcion
-
-## Aplicacion android
-
-### Tecnologias
-
-- Kotlin - Jetpack compose
-- Hilt
-- Firebase
-- Mvvm - Clean Architecture
+**Tecnologías:** Kotlin, Jetpack Compose, Hilt, Firebase, MVVM, Clean Architecture
 
 ---
 
+### Combo Vip
 
-### 4. **Combo Vip**  
+Sistema web para gestión de feedback de clientes VIP y selección de premios por puntos acumulados.
 
-Aplicación para seleccionar premios con los puntos que se han acumulado por ser cliente frecuente.  
-![Liga SIP](./assets/images/combo-vip-web.png)
+![Combo Vip](./assets/images/combo-vip-web.png)
 
-# Descripcion
-
-## Pagina web
-
-### Tecnologias
-
-- C#
-- Blazor
-- Tailwind
+**Tecnologías:** C#, Blazor, TailwindCSS
 
 ---
 
-## Redes Sociales  
+## 🌐 Redes y Contacto
 
-- [**LinkedIn**](https://www.linkedin.com/in/drubico)  
-  Conéctate conmigo para explorar mi experiencia profesional y proyectos.  
----
+- [LinkedIn](https://www.linkedin.com/in/drubico) — Conéctate conmigo para explorar mi experiencia profesional y proyectos.
+- [Google Play Store](https://play.google.com/store/apps/dev?id=5906834204268116327) — Descarga y explora mis aplicaciones en la tienda oficial de Android.
+- **Email:** [drubico@gmail.com](mailto:drubico@gmail.com)
+- **Ubicación:** San Salvador, El Salvador
 
-## Descarga mis Aplicaciones  
-
-- [**Google Play Store**](https://play.google.com/store/apps/dev?id=5906834204268116327)  
-  Descarga y explora mis aplicaciones en la tienda oficial de Android.
-  
-<div align="center">
+<p align="center">
     <img src="./assets/images/placeholder-play-store.png" alt="Google Play" width="500">
-</div>
+</p>
+
 ---
 
-## 📞 Contacto
-
-- **Email:** [drubico@gmail.com](mailto:drubico@gmail.com)  
-- **Ubicación:** San Salvador, El Salvador  
