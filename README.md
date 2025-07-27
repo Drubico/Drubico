@@ -49,18 +49,16 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 
 ## 🛠️ Habilidades Técnicas
 
-| Habilidad                  | Nivel        |
+| Habilidad                  | Dominio      |
 |----------------------------|--------------|
-| Android (Kotlin/Java)      | Avanzado     |
-| Jetpack Compose            | Avanzado     |
-| Node.js / Express          | Intermedio   |
-| Backend RESTful            | Intermedio   |
-| Blazor / C#                | Intermedio   |
-| Firebase                   | Intermedio   |
-| Room / SQLite              | Intermedio   |
-| WordPress                  | Intermedio   |
-| CI/CD (GitHub Actions)     | Básico       |
-| Testing (JUnit, Espresso)  | Básico       |
+| Android (Kotlin/Java)      | ██████████░░ 90% |
+| Jetpack Compose            | ██████████░░ 90% |
+| Node.js / Express          | ████████░░░░ 70% |
+| Backend RESTful            | ████████░░░░ 70% |
+| Blazor / C#                | ███████░░░░░ 60% |
+| Firebase                   | ███████░░░░░ 60% |
+| Room / SQLite              | ███████░░░░░ 60% |
+| WordPress                  | ███████░░░░░ 60% |
 
 ---
 
@@ -163,4 +161,3 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
 </p>
 
 ---
-
