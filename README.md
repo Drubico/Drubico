@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://diego-rubi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/🌐%20Visita%20mi%20web-Diego%20Rubí-blue?style=for-the-badge" alt="Web personal"/></a>
+  <a href="https://diego-rubi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/🌐%20Visita%20mi%20Portfolio-Diego%20Rubí-blue?style=for-the-badge" alt="Portfolio personal"/></a>
   <a href="https://www.linkedin.com/in/drubico" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-228B22?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
 </p>
@@ -19,7 +19,9 @@
 
 <p align="center">
   <i>¡Bienvenido a mi perfil de GitHub! Aquí comparto mis proyectos, ideas y soluciones tecnológicas.<br>
-  Si quieres conocer más sobre mí, mis servicios o contactarme, visita mi web personal o mis redes.</i>
+  🌍 <strong>Visita mi <a href="https://diego-rubi.is-a.dev" target="_blank">portfolio personal</a> para conocer más sobre mi historia, proyectos detallados y experiencias.</strong><br>
+  <em>Disponible en múltiples idiomas</em> 🇪🇸 🇺🇸
+  </i>
 </p>
 
 ---
@@ -42,7 +44,31 @@
 
 ---
 
-## 🎯 Logros Destacados
+## � Mi Portfolio Personal
+
+<p align="center">
+  <a href="https://diego-rubi.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Explora%20mi%20Portfolio-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Web" width="300"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍%20Español-Disponible-green?style=flat-square" alt="Español"/>
+  <img src="https://img.shields.io/badge/🇺🇸%20English-Available-blue?style=flat-square" alt="English"/>
+  <img src="https://img.shields.io/badge/📱%20Responsive-Design-orange?style=flat-square" alt="Responsive"/>
+</p>
+
+**¿Qué encontrarás en mi portfolio?**
+- 📖 Mi historia completa como desarrollador
+- 🎯 Casos de estudio detallados de mis proyectos
+- 🛠️ Proceso de desarrollo y decisiones técnicas
+- 📸 Screenshots y demos interactivas
+- 🎨 Mi filosofía de diseño y desarrollo
+- 📞 Información de contacto directo
+
+---
+
+## �🎯 Logros Destacados
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apps%20Publicadas-4+-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
@@ -74,7 +100,7 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 ## 🛠️ Habilidades Técnicas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,nodejs,cs,blazor,firebase,sqlite&theme=dark" alt="Tech Stack" width="400"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,nodejs,cs,firebase,sqlite,git,vscode,androidstudio&theme=dark" alt="Tech Stack" width="500"/>
 </p>
 
 ### 📱 Desarrollo Móvil
@@ -162,10 +188,10 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 
 Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tras deducciones de AFP, ISSS e ISR, con simulación de escenarios financieros.
 
-**🎯 Logros:**
-- ⭐ 4.2/5 en Google Play Store
-- 📱 +1,000 descargas activas
-- 🚀 Interfaz 100% Jetpack Compose
+**🎯 Características destacadas:**
+- 🧮 Cálculos precisos de deducciones fiscales salvadoreñas
+- � Simulación de diferentes escenarios salariales
+- 🎨 Interfaz moderna desarrollada en Jetpack Compose
 
 **🛠️ Stack:** Kotlin, Jetpack Compose, Koin, Firebase, MVVM, Clean Architecture
 
@@ -234,21 +260,30 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
 
 ---
 
-## 🌐 Redes y Contacto
+## 🌐 Conecta Conmigo
 
 <p align="center">
+  <a href="https://diego-rubi.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Personal-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/drubico" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:drubico@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://diego-rubi.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
+</p>
+
+<p align="center">
+  <strong>🌟 Para conocer mi historia completa y proyectos detallados:</strong><br>
+  <a href="https://diego-rubi.is-a.dev" target="_blank"><strong>👉 Visita mi Portfolio Personal 👈</strong></a><br>
+  <em>Disponible en Español e Inglés</em>
 </p>
 
 **📍 Ubicación:** San Salvador, El Salvador  
