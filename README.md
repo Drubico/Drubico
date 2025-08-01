@@ -205,7 +205,7 @@ Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tr
 ### 💳 FinFlex
 
 <p align="center">
-  <img src="./assets/images/finflex.png" alt="FinFlex App" width="300"/>
+  <img src="./assets/images/finflex.png" alt="FinFlex App" width="450"/>
 </p>
 
 Solución financiera integral para la gestión inteligente de tarjetas de crédito, seguimiento de gastos y alertas de pago.
