@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/images/my-avatar.png" alt="Avatar Diego Rubí" width="180" />
+  <img src="./assets/images/my-avatar.png" alt=## 🎯 Logros DestacadosAvatar Diego Rubí" width="180" />
 </p>
 
 <h1 align="center">¡Hola, soy Diego Rubí! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30" alt="Saludo"/></h1>
@@ -19,8 +19,7 @@
 
 <p align="center">
   <i>¡Bienvenido a mi perfil de GitHub! Aquí comparto mis proyectos, ideas y soluciones tecnológicas.<br>
-  🌍 <strong>Visita mi <a href="https://diego-rubi.is-a.dev" target="_blank">portfolio personal</a> para conocer más sobre mi historia, proyectos detallados y experiencias.</strong><br>
-  <em>Disponible en múltiples idiomas</em> 🇪🇸 🇺🇸
+  💼 Conoce más sobre mi experiencia profesional en mi <a href="https://diego-rubi.is-a.dev" target="_blank">portfolio personal</a> (🇪🇸 🇺🇸)
   </i>
 </p>
 
@@ -183,7 +182,7 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 ### 📱 Salario SV
 
 <p align="center">
-  <img src="./assets/images/salario-sv.png" alt="Salario SV App" width="200"/>
+  <img src="./assets/images/salario-sv.png" alt="Salario SV App" width="300"/>
 </p>
 
 Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tras deducciones de AFP, ISSS e ISR, con simulación de escenarios financieros.
@@ -206,7 +205,7 @@ Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tr
 ### 💳 FinFlex
 
 <p align="center">
-  <img src="./assets/images/finflex.png" alt="FinFlex App" width="200"/>
+  <img src="./assets/images/finflex.png" alt="FinFlex App" width="300"/>
 </p>
 
 Solución financiera integral para la gestión inteligente de tarjetas de crédito, seguimiento de gastos y alertas de pago.
@@ -223,7 +222,7 @@ Solución financiera integral para la gestión inteligente de tarjetas de crédi
 ### ⚽ Dires Cup
 
 <p align="center">
-  <img src="./assets/images/direscup.png" alt="Dires Cup App" width="200"/>
+  <img src="./assets/images/direscup.png" alt="Dires Cup App" width="300"/>
 </p>
 
 Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo real de marcadores y estadísticas.
@@ -260,11 +259,11 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
 
 ---
 
-## 🌐 Conecta Conmigo
+## 🌐 Contacto
 
 <p align="center">
   <a href="https://diego-rubi.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Personal-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/drubico" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -278,12 +277,6 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
   <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
-</p>
-
-<p align="center">
-  <strong>🌟 Para conocer mi historia completa y proyectos detallados:</strong><br>
-  <a href="https://diego-rubi.is-a.dev" target="_blank"><strong>👉 Visita mi Portfolio Personal 👈</strong></a><br>
-  <em>Disponible en Español e Inglés</em>
 </p>
 
 **📍 Ubicación:** San Salvador, El Salvador  
