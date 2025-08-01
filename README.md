@@ -43,7 +43,7 @@
 
 ---
 
-## � Mi Portfolio Personal
+## 💼 Mi Portfolio Personal
 
 <p align="center">
   <a href="https://diego-rubi.is-a.dev" target="_blank">
@@ -67,7 +67,7 @@
 
 ---
 
-## �🎯 Logros Destacados
+## 🏆 Logros Destacados
 
 <p align="center">
   <img src="https://img.shields.io/badge/Apps%20Publicadas-4+-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
@@ -189,7 +189,7 @@ Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tr
 
 **🎯 Características destacadas:**
 - 🧮 Cálculos precisos de deducciones fiscales salvadoreñas
-- � Simulación de diferentes escenarios salariales
+- 📊 Simulación de diferentes escenarios salariales
 - 🎨 Interfaz moderna desarrollada en Jetpack Compose
 
 **🛠️ Stack:** Kotlin, Jetpack Compose, Koin, Firebase, MVVM, Clean Architecture
