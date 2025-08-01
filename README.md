@@ -29,8 +29,32 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical" alt="stats" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=drubico&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="450">
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical&theme=radical&hide_border=true" alt="Top Languages" width="350">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drubico&theme=radical&hide_border=true" alt="GitHub Streak" width="450">
+</p>
+
+---
+
+## 🎯 Logros Destacados
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apps%20Publicadas-4+-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
+  <img src="https://img.shields.io/badge/Años%20Experiencia-4+-007ACC?style=for-the-badge&logo=code&logoColor=white" alt="Experiencia"/>
+  <img src="https://img.shields.io/badge/Proyectos%20Completados-15+-FF6900?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos"/>
+</p>
+
+- 🏆 **+4 aplicaciones** publicadas en Google Play Store con calificaciones superiores a 4.0 ⭐
+- 📱 **Especialista en Kotlin** con más de 4 años de experiencia en desarrollo Android
+- 🚀 **Optimizaciones críticas** que redujeron latencia en un 40% en aplicaciones gubernamentales
+- 👥 **Liderazgo técnico** en equipos ágiles para entrega de features prioritarios
+- 🏛️ **Experiencia gubernamental** desarrollando para Presidencia y Ministerio de Salud
 
 ---
 
@@ -49,16 +73,24 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 
 ## 🛠️ Habilidades Técnicas
 
-| Habilidad                  | Dominio      |
-|----------------------------|--------------|
-| Android (Kotlin/Java)      | ██████████░░ 90% |
-| Jetpack Compose            | ██████████░░ 90% |
-| Node.js / Express          | ████████░░░░ 70% |
-| Backend RESTful            | ████████░░░░ 70% |
-| Blazor / C#                | ███████░░░░░ 60% |
-| Firebase                   | ███████░░░░░ 60% |
-| Room / SQLite              | ███████░░░░░ 60% |
-| WordPress                  | ███████░░░░░ 60% |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,nodejs,cs,blazor,firebase,sqlite&theme=dark" alt="Tech Stack" width="400"/>
+</p>
+
+### 📱 Desarrollo Móvil
+![Kotlin](https://img.shields.io/badge/Kotlin-90%25-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-90%25-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-90%25-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### 🌐 Desarrollo Web
+![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-70%25-000000?style=flat-square&logo=express&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-60%25-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+### 🗄️ Base de Datos & Backend
+![Firebase](https://img.shields.io/badge/Firebase-60%25-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Room](https://img.shields.io/badge/Room-60%25-4285F4?style=flat-square&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-60%25-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -101,63 +133,137 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 
 **Lenguajes:** Kotlin, Java, JavaScript, C#, SQL  
 **Frameworks:** Jetpack Compose, Node.js, Express, Blazor  
-**Librerías:** Retrofit, Room, Hilt, Koin, Firebase, TailwindCSS
+**Librerías:** Retrofit, Room, Hilt, Koin, Firebase, TailwindCSS  
+**Herramientas:** Android Studio, VS Code, Git, Figma, Postman
 
 ---
 
-## � Proyectos Destacados
+## 🎯 Enfoque Actual
 
-### Salario SV
+<p align="center">
+  <img src="https://img.shields.io/badge/Especializaci%C3%B3n-Android%20Nativo-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Nativo"/>
+  <img src="https://img.shields.io/badge/Arquitectura-Clean%20%26%20MVVM-00C851?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-FF6900?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+</p>
+
+**💡 Perfeccionando:** Arquitecturas limpias y patrones de diseño avanzados en Android  
+**🚀 Explorando:** Mejores prácticas en testing y optimización de rendimiento  
+**🔍 Investigando:** Nuevas librerías y herramientas del ecosistema Android
+
+---
+
+## 🎯 Proyectos Destacados
+
+### 📱 Salario SV
+
+<p align="center">
+  <img src="./assets/images/salario-sv.png" alt="Salario SV App" width="200"/>
+</p>
 
 Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tras deducciones de AFP, ISSS e ISR, con simulación de escenarios financieros.
 
-- [Ver en Play Store](https://play.google.com/store/apps/details?id=com.drubico.salariosv)
-![Salario Sv](./assets/images/salario-sv.png)
+**🎯 Logros:**
+- ⭐ 4.2/5 en Google Play Store
+- 📱 +1,000 descargas activas
+- 🚀 Interfaz 100% Jetpack Compose
 
-**Tecnologías:** Kotlin, Jetpack Compose, Koin, Firebase, MVVM, Clean Architecture
+**🛠️ Stack:** Kotlin, Jetpack Compose, Koin, Firebase, MVVM, Clean Architecture
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.drubico.salariosv" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Ver en Play Store"/>
+  </a>
+</p>
 
 ---
 
-### FinFlex
+### 💳 FinFlex
+
+<p align="center">
+  <img src="./assets/images/finflex.png" alt="FinFlex App" width="200"/>
+</p>
 
 Solución financiera integral para la gestión inteligente de tarjetas de crédito, seguimiento de gastos y alertas de pago.
 
-![Fin Flex](./assets/images/finflex.png)
+**🎯 Características:**
+- 💡 Gestión inteligente de gastos
+- 🔔 Alertas automáticas de pago
+- 📊 Análisis financiero avanzado
 
-**Tecnologías:** Kotlin, Jetpack Compose, Hilt, Firebase, MVVM, Clean Architecture
+**🛠️ Stack:** Kotlin, Jetpack Compose, Hilt, Firebase, MVVM, Clean Architecture
 
 ---
 
-### Dires Cup
+### ⚽ Dires Cup
+
+<p align="center">
+  <img src="./assets/images/direscup.png" alt="Dires Cup App" width="200"/>
+</p>
 
 Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo real de marcadores y estadísticas.
 
-- [Ver en Play Store](https://play.google.com/store/apps/details?id=com.drubi.diresCup)
-![Dires Cup](./assets/images/direscup.png)
+**🎯 Funcionalidades:**
+- 🏆 Gestión completa de torneos
+- ⚡ Actualizaciones en tiempo real
+- 📈 Estadísticas detalladas
 
-**Tecnologías:** Kotlin, Jetpack Compose, Hilt, Firebase, MVVM, Clean Architecture
+**🛠️ Stack:** Kotlin, Jetpack Compose, Hilt, Firebase, MVVM, Clean Architecture
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.drubi.diresCup" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Ver en Play Store"/>
+  </a>
+</p>
 
 ---
 
-### Combo Vip
+### 🎁 Combo Vip
+
+<p align="center">
+  <img src="./assets/images/combo-vip-web.png" alt="Combo VIP Web" width="300"/>
+</p>
 
 Sistema web para gestión de feedback de clientes VIP y selección de premios por puntos acumulados.
 
-![Combo Vip](./assets/images/combo-vip-web.png)
+**🎯 Características:**
+- 👥 Sistema de gestión de clientes VIP
+- 🎁 Programa de recompensas por puntos
+- 📝 Gestión avanzada de feedback
 
-**Tecnologías:** C#, Blazor, TailwindCSS
+**🛠️ Stack:** C#, Blazor, TailwindCSS
 
 ---
 
 ## 🌐 Redes y Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/drubico) — Conéctate conmigo para explorar mi experiencia profesional y proyectos.
-- [Google Play Store](https://play.google.com/store/apps/dev?id=5906834204268116327) — Descarga y explora mis aplicaciones en la tienda oficial de Android.
-- **Email:** [drubico@gmail.com](mailto:drubico@gmail.com)
-- **Ubicación:** San Salvador, El Salvador
+<p align="center">
+  <a href="https://www.linkedin.com/in/drubico" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:drubico@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://diego-rubi.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
+  </a>
+</p>
+
+**📍 Ubicación:** San Salvador, El Salvador  
+**✉️ Email:** [drubico@gmail.com](mailto:drubico@gmail.com)
+
+---
+
+## 🎯 ¿Interesado en colaborar?
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-brightgreen?style=for-the-badge" alt="Disponible"/>
+</p>
+
+Si buscas un desarrollador móvil apasionado y experimentado, o tienes un proyecto interesante en mente, ¡me encantaría escuchar de ti!
 
 <p align="center">
     <img src="./assets/images/placeholder-play-store.png" alt="Google Play" width="500">
 </p>
-
----
