@@ -61,7 +61,7 @@
 - 📖 Mi historia completa como desarrollador
 - 🎯 Casos de estudio detallados de mis proyectos
 - 🛠️ Proceso de desarrollo y decisiones técnicas
-- 📸 Screenshots y demos interactivas
+- 📸 Screenshots y ejemplos de mis aplicaciones
 - 🎨 Mi filosofía de diseño y desarrollo
 - 📞 Información de contacto directo
 
@@ -182,7 +182,7 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 ### 📱 Salario SV
 
 <p align="center">
-  <img src="./assets/images/salario-sv.png" alt="Salario SV App" width="300"/>
+  <img src="./assets/images/salario-sv.png" alt="Salario SV App" width="450"/>
 </p>
 
 Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tras deducciones de AFP, ISSS e ISR, con simulación de escenarios financieros.
@@ -222,7 +222,7 @@ Solución financiera integral para la gestión inteligente de tarjetas de crédi
 ### ⚽ Dires Cup
 
 <p align="center">
-  <img src="./assets/images/direscup.png" alt="Dires Cup App" width="300"/>
+  <img src="./assets/images/direscup.png" alt="Dires Cup App" width="450"/>
 </p>
 
 Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo real de marcadores y estadísticas.
@@ -245,7 +245,7 @@ Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo
 ### 🎁 Combo Vip
 
 <p align="center">
-  <img src="./assets/images/combo-vip-web.png" alt="Combo VIP Web" width="300"/>
+  <img src="./assets/images/combo-vip-web.png" alt="Combo VIP Web" width="450"/>
 </p>
 
 Sistema web para gestión de feedback de clientes VIP y selección de premios por puntos acumulados.
