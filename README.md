@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square" alt="Español"/>
-  <img src="https://img.shields.io/badge/English-Avanzado-blue?style=flat-square" alt="English"/>
+  <img src="https://img.shields.io/badge/English-Intermedio-blue?style=flat-square" alt="English"/>
 </p>
 
 ---
