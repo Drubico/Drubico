@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/images/my-avatar.png" alt=## 🎯 Logros DestacadosAvatar Diego Rubí" width="180" />
+  <img src="./assets/images/my-avatar.png" alt="Avatar Diego Rubí" width="180" />
 </p>
 
 <h1 align="center">¡Hola, soy Diego Rubí! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="30" alt="Saludo"/></h1>
@@ -83,13 +83,16 @@
 
 ---
 
-## 🧑‍💻 Resumen profesional
+## �️ Idiomas
 
-Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasiona transformar desafíos técnicos en soluciones intuitivas y estéticamente pulidas. Mi enfoque combina funcionalidad robusta con diseño atractivo, asegurando experiencias de usuario fluidas. He colaborado en el desarrollo de aplicaciones para instituciones gubernamentales y empresas privadas, implementando mejores prácticas y tecnologías modernas.
+<p align="center">
+  <img src="https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square" alt="Español"/>
+  <img src="https://img.shields.io/badge/English-Avanzado-blue?style=flat-square" alt="English"/>
+</p>
 
 ---
 
-## 🚀 Servicios
+## �🚀 Servicios
 
 - **Desarrollo Móvil:** Creación de aplicaciones Android nativas con Kotlin, implementando arquitecturas limpias y patrones de diseño modernos.
 - **Soluciones Web:** Desarrollo de interfaces web responsivas y sistemas backend eficientes.
@@ -121,8 +124,8 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 
 ## 🎓 Formación Académica
 
-- **Universidad Centroamericana José Simeón Cañas**  
-  Carrera en Ingeniería Informática (2017 — Presente)  
+- **Universidad Centroamericana José Simeón Cañas**
+  Carrera en Ingeniería Informática (2017 — Presente)
   Énfasis en desarrollo de software, seguridad informática y arquitecturas de sistemas.
 
 ---
@@ -156,9 +159,9 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
 
 ## 🧩 Stack Tecnológico
 
-**Lenguajes:** Kotlin, Java, JavaScript, C#, SQL  
-**Frameworks:** Jetpack Compose, Node.js, Express, Blazor  
-**Librerías:** Retrofit, Room, Hilt, Koin, Firebase, TailwindCSS  
+**Lenguajes:** Kotlin, Java, JavaScript, C#, SQL
+**Frameworks:** Jetpack Compose, Node.js, Express, Blazor
+**Librerías:** Retrofit, Room, Hilt, Koin, Firebase, TailwindCSS
 **Herramientas:** Android Studio, VS Code, Git, Figma, Postman
 
 ---
@@ -171,8 +174,8 @@ Desarrollador móvil especializado en Kotlin con base en El Salvador. Me apasion
   <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-FF6900?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
 </p>
 
-**💡 Perfeccionando:** Arquitecturas limpias y patrones de diseño avanzados en Android  
-**🚀 Explorando:** Mejores prácticas en testing y optimización de rendimiento  
+**💡 Perfeccionando:** Arquitecturas limpias y patrones de diseño avanzados en Android
+**🚀 Explorando:** Mejores prácticas en testing y optimización de rendimiento
 **🔍 Investigando:** Nuevas librerías y herramientas del ecosistema Android
 
 ---
@@ -279,7 +282,7 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
   </a>
 </p>
 
-**📍 Ubicación:** San Salvador, El Salvador  
+**📍 Ubicación:** San Salvador, El Salvador
 **✉️ Email:** [drubico@gmail.com](mailto:drubico@gmail.com)
 
 ---
@@ -287,7 +290,7 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
 ## 🎯 ¿Interesado en colaborar?
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20proyectos-brightgreen?style=for-the-badge" alt="Disponible"/>
+  <img src="https://img.shields.io/badge/Estado-Disponible%20para%20Proyectos-brightgreen?style=for-the-badge" alt="Disponible"/>
 </p>
 
 Si buscas un desarrollador móvil apasionado y experimentado, o tienes un proyecto interesante en mente, ¡me encantaría escuchar de ti!
