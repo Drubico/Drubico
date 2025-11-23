@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="./assets/images/my-avatar.png" alt="Avatar Diego Rubí" width="180" />
 </p>
@@ -30,15 +29,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=drubico&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=drubico&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drubico&layout=donut-vertical&theme=radical&hide_border=true" alt="Top Languages" width="350">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drubico&theme=radical&hide_border=true" alt="GitHub Streak" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drubico&theme=radical&hide_border=true" height="180" alt="GitHub Streak">
 </p>
 
 ---
@@ -51,13 +47,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🌍%20Español-Disponible-green?style=flat-square" alt="Español"/>
-  <img src="https://img.shields.io/badge/🇺🇸%20English-Available-blue?style=flat-square" alt="English"/>
-  <img src="https://img.shields.io/badge/📱%20Responsive-Design-orange?style=flat-square" alt="Responsive"/>
-</p>
-
 **¿Qué encontrarás en mi portfolio?**
+
 - 📖 Mi historia completa como desarrollador
 - 🎯 Casos de estudio detallados de mis proyectos
 - 🛠️ Proceso de desarrollo y decisiones técnicas
@@ -83,7 +74,7 @@
 
 ---
 
-## �️ Idiomas
+## 🗣️ Idiomas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square" alt="Español"/>
@@ -92,7 +83,7 @@
 
 ---
 
-## �🚀 Servicios
+## 🚀 Servicios
 
 - **Desarrollo Móvil:** Creación de aplicaciones Android nativas con Kotlin, implementando arquitecturas limpias y patrones de diseño modernos.
 - **Soluciones Web:** Desarrollo de interfaces web responsivas y sistemas backend eficientes.
@@ -106,19 +97,28 @@
 </p>
 
 ### 📱 Desarrollo Móvil
-![Kotlin](https://img.shields.io/badge/Kotlin-90%25-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-90%25-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-90%25-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-90%25-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-90%25-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Android-90%25-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+</p>
 
 ### 🌐 Desarrollo Web
-![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-70%25-000000?style=flat-square&logo=express&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-60%25-512BD4?style=flat-square&logo=blazor&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-70%25-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Blazor-60%25-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor"/>
+</p>
 
 ### 🗄️ Base de Datos & Backend
-![Firebase](https://img.shields.io/badge/Firebase-60%25-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Room](https://img.shields.io/badge/Room-60%25-4285F4?style=flat-square&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-60%25-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-60%25-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Room-60%25-4285F4?style=flat-square&logo=android&logoColor=white" alt="Room"/>
+  <img src="https://img.shields.io/badge/SQLite-60%25-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+</p>
 
 ---
 
@@ -132,28 +132,48 @@
 
 ## 🏢 Experiencia Laboral
 
-- **Desarrollador Móvil Senior - PBS GROUP** (Marzo 2025 — Presente)
-  - Desarrollo de soluciones móviles con ODK Collect y Enketo
-  - Consumo de formularios desde ODK Central aplicando Clean Architecture y buenas prácticas de Clean Code
-  - Implementación de flujos personalizados para la captura de datos en campo
-  - Integración con APIs REST y manejo avanzado de XML en Android
+<details>
+<summary><strong>Desarrollador Móvil Senior - PBS GROUP</strong> (Marzo 2025 — Presente)</summary>
+<br>
 
-- **Desarrollador Móvil Senior - Secretaría de Innovación de la Presidencia** (Octubre 2022 — Marzo 2025)
-  - Liderazgo técnico en el desarrollo de aplicaciones Android nativas usando Kotlin y Jetpack Compose
-  - Implementación de arquitecturas MVVM y Clean Architecture en proyectos críticos
-  - Integración de servicios RESTful con Retrofit y gestión de datos locales con Room
-  - Coordinación de equipos ágiles para entrega de features prioritarios
+- Desarrollo de soluciones móviles con ODK Collect y Enketo
+- Consumo de formularios desde ODK Central aplicando Clean Architecture y buenas prácticas de Clean Code
+- Implementación de flujos personalizados para la captura de datos en campo
+- Integración con APIs REST y manejo avanzado de XML en Android
 
-- **Desarrollador Full Stack - Ministerio de Salud** (Febrero 2022 — Octubre 2022)
-  - Modernización de aplicaciones legacy migrando de Java a Kotlin
-  - Diseño e implementación de APIs robustas con Node.js y Express
-  - Optimización de rendimiento en aplicaciones críticas reduciendo latencia en 40%
-  - Implementación de inyección de dependencias con Dagger Hilt
+</details>
 
-- **Desarrollador WordPress - The Virtual Buddy** (Enero 2021 — Junio 2021)
-  - Creación de plataformas CMS personalizadas con WordPress
-  - Diseño de temas adaptativos y optimización SEO
-  - Integración de sistemas de comercio electrónico
+<details>
+<summary><strong>Desarrollador Móvil Senior - Secretaría de Innovación de la Presidencia</strong> (Octubre 2022 — Marzo 2025)</summary>
+<br>
+
+- Liderazgo técnico en el desarrollo de aplicaciones Android nativas usando Kotlin y Jetpack Compose
+- Implementación de arquitecturas MVVM y Clean Architecture en proyectos críticos
+- Integración de servicios RESTful con Retrofit y gestión de datos locales con Room
+- Coordinación de equipos ágiles para entrega de features prioritarios
+
+</details>
+
+<details>
+<summary><strong>Desarrollador Full Stack - Ministerio de Salud</strong> (Febrero 2022 — Octubre 2022)</summary>
+<br>
+
+- Modernización de aplicaciones legacy migrando de Java a Kotlin
+- Diseño e implementación de APIs robustas con Node.js y Express
+- Optimización de rendimiento en aplicaciones críticas reduciendo latencia en 40%
+- Implementación de inyección de dependencias con Dagger Hilt
+
+</details>
+
+<details>
+<summary><strong>Desarrollador WordPress - The Virtual Buddy</strong> (Enero 2021 — Junio 2021)</summary>
+<br>
+
+- Creación de plataformas CMS personalizadas con WordPress
+- Diseño de temas adaptativos y optimización SEO
+- Integración de sistemas de comercio electrónico
+
+</details>
 
 ---
 
@@ -191,6 +211,7 @@
 Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tras deducciones de AFP, ISSS e ISR, con simulación de escenarios financieros.
 
 **🎯 Características destacadas:**
+
 - 🧮 Cálculos precisos de deducciones fiscales salvadoreñas
 - 📊 Simulación de diferentes escenarios salariales
 - 🎨 Interfaz moderna desarrollada en Jetpack Compose
@@ -214,6 +235,7 @@ Calculadora fiscal avanzada para El Salvador. Permite conocer el salario neto tr
 Solución financiera integral para la gestión inteligente de tarjetas de crédito, seguimiento de gastos y alertas de pago.
 
 **🎯 Características:**
+
 - 💡 Gestión inteligente de gastos
 - 🔔 Alertas automáticas de pago
 - 📊 Análisis financiero avanzado
@@ -231,6 +253,7 @@ Solución financiera integral para la gestión inteligente de tarjetas de crédi
 Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo real de marcadores y estadísticas.
 
 **🎯 Funcionalidades:**
+
 - 🏆 Gestión completa de torneos
 - ⚡ Actualizaciones en tiempo real
 - 📈 Estadísticas detalladas
@@ -254,6 +277,7 @@ Plataforma deportiva interactiva para torneos amateur, con seguimiento en tiempo
 Sistema web para gestión de feedback de clientes VIP y selección de premios por puntos acumulados.
 
 **🎯 Características:**
+
 - 👥 Sistema de gestión de clientes VIP
 - 🎁 Programa de recompensas por puntos
 - 📝 Gestión avanzada de feedback
