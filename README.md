@@ -71,12 +71,12 @@
 ## 🏆 Logros Destacados
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apps%20Publicadas-4+-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
+  <img src="https://img.shields.io/badge/Apps%20Publicadas-2-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
   <img src="https://img.shields.io/badge/Años%20Experiencia-4+-007ACC?style=for-the-badge&logo=code&logoColor=white" alt="Experiencia"/>
   <img src="https://img.shields.io/badge/Proyectos%20Completados-15+-FF6900?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos"/>
 </p>
 
-- 🏆 **+4 aplicaciones** publicadas en Google Play Store con calificaciones superiores a 4.0 ⭐
+- 🏆 **2 aplicaciones** publicadas en Google Play Store con calificaciones superiores a 4.0 ⭐
 - 📱 **Especialista en Kotlin** con más de 4 años de experiencia en desarrollo Android
 - 🚀 **Optimizaciones críticas** que redujeron latencia en un 40% en aplicaciones gubernamentales
 - 👥 **Liderazgo técnico** en equipos ágiles para entrega de features prioritarios
