@@ -99,25 +99,25 @@
 ### 📱 Desarrollo Móvil
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-90%25-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-90%25-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Android-90%25-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
 </p>
 
 ### 🌐 Desarrollo Web
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-70%25-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-70%25-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Blazor-60%25-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor"/>
 </p>
 
 ### 🗄️ Base de Datos & Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-60%25-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Room-60%25-4285F4?style=flat-square&logo=android&logoColor=white" alt="Room"/>
-  <img src="https://img.shields.io/badge/SQLite-60%25-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Room-4285F4?style=flat-square&logo=android&logoColor=white" alt="Room"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
 ---
@@ -174,15 +174,6 @@
 - Integración de sistemas de comercio electrónico
 
 </details>
-
----
-
-## 🧩 Stack Tecnológico
-
-**Lenguajes:** Kotlin, Java, JavaScript, C#, SQL
-**Frameworks:** Jetpack Compose, Node.js, Express, Blazor
-**Librerías:** Retrofit, Room, Hilt, Koin, Firebase, TailwindCSS
-**Herramientas:** Android Studio, VS Code, Git, Figma, Postman
 
 ---
 
