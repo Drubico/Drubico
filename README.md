@@ -9,16 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://diego-rubi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/🌐%20Visita%20mi%20Portfolio-Diego%20Rubí-blue?style=for-the-badge" alt="Portfolio personal"/></a>
+  <a href="https://diego-rubi.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio_Web-Visitar-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio personal"/></a>
   <a href="https://www.linkedin.com/in/drubico" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank"><img src="https://img.shields.io/badge/Google%20Play-228B22?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/></a>
+  <a href="mailto:drubico@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>¡Bienvenido a mi perfil de GitHub! Aquí comparto mis proyectos, ideas y soluciones tecnológicas.<br>
-  💼 Conoce más sobre mi experiencia profesional en mi <a href="https://diego-rubi.is-a.dev" target="_blank">portfolio personal</a> (🇪🇸 🇺🇸)
+  <i>¡Hola! Soy un Ingeniero en Informática con +4 años de experiencia especializado en desarrollo móvil nativo (Android/Kotlin).<br>
+  Me apasiona crear soluciones tecnológicas de alto impacto, desde aplicaciones gubernamentales críticas hasta herramientas financieras.
   </i>
 </p>
 
@@ -39,62 +40,7 @@
 
 ---
 
-## 💼 Mi Portfolio Personal
-
-<p align="center">
-  <a href="https://diego-rubi.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Explora%20mi%20Portfolio-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Web" width="300"/>
-  </a>
-</p>
-
-**¿Qué encontrarás en mi portfolio?**
-
-- 📖 Mi historia completa como desarrollador
-- 🎯 Casos de estudio detallados de mis proyectos
-- 🛠️ Proceso de desarrollo y decisiones técnicas
-- 📸 Screenshots y ejemplos de mis aplicaciones
-- 🎨 Mi filosofía de diseño y desarrollo
-- 📞 Información de contacto directo
-
----
-
-## 🏆 Logros Destacados
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Apps%20Publicadas-4+-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
-  <img src="https://img.shields.io/badge/Años%20Experiencia-4+-007ACC?style=for-the-badge&logo=code&logoColor=white" alt="Experiencia"/>
-  <img src="https://img.shields.io/badge/Proyectos%20Completados-15+-FF6900?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos"/>
-</p>
-
-- 🏆 **+4 aplicaciones** publicadas en Google Play Store con calificaciones superiores a 4.0 ⭐
-- 📱 **Especialista en Kotlin** con más de 4 años de experiencia en desarrollo Android
-- 🚀 **Optimizaciones críticas** que redujeron latencia en un 40% en aplicaciones gubernamentales
-- 👥 **Liderazgo técnico** en equipos ágiles para entrega de features prioritarios
-- 🏛️ **Experiencia gubernamental** desarrollando para Presidencia y Ministerio de Salud
-
----
-
-## 🗣️ Idiomas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square" alt="Español"/>
-  <img src="https://img.shields.io/badge/English-Intermedio-blue?style=flat-square" alt="English"/>
-</p>
-
----
-
-## 🚀 Servicios
-
-- **Desarrollo Móvil:** Creación de aplicaciones Android nativas con Kotlin, implementando arquitecturas limpias y patrones de diseño modernos.
-- **Soluciones Web:** Desarrollo de interfaces web responsivas y sistemas backend eficientes.
-
----
-
 ## 🛠️ Habilidades Técnicas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,javascript,nodejs,cs,firebase,sqlite,git,vscode,androidstudio&theme=dark" alt="Tech Stack" width="500"/>
-</p>
 
 ### 📱 Desarrollo Móvil
 
@@ -122,11 +68,19 @@
 
 ---
 
-## 🎓 Formación Académica
+## 🏆 Logros Destacados
 
-- **Universidad Centroamericana José Simeón Cañas**
-  Carrera en Ingeniería Informática (2017 — Presente)
-  Énfasis en desarrollo de software, seguridad informática y arquitecturas de sistemas.
+<p align="center">
+  <img src="https://img.shields.io/badge/Apps%20Publicadas-4+-00C851?style=for-the-badge&logo=google-play&logoColor=white" alt="Apps Publicadas"/>
+  <img src="https://img.shields.io/badge/Años%20Experiencia-4+-007ACC?style=for-the-badge&logo=code&logoColor=white" alt="Experiencia"/>
+  <img src="https://img.shields.io/badge/Proyectos%20Completados-15+-FF6900?style=for-the-badge&logo=rocket&logoColor=white" alt="Proyectos"/>
+</p>
+
+- 🏆 **+4 aplicaciones** publicadas en Google Play Store con calificaciones superiores a 4.0 ⭐
+- 📱 **Especialista en Kotlin** con más de 4 años de experiencia en desarrollo Android
+- 🚀 **Optimizaciones críticas** que redujeron latencia en un 40% en aplicaciones gubernamentales
+- 👥 **Liderazgo técnico** en equipos ágiles para entrega de features prioritarios
+- 🏛️ **Experiencia gubernamental** desarrollando para Presidencia y Ministerio de Salud
 
 ---
 
@@ -174,20 +128,6 @@
 - Integración de sistemas de comercio electrónico
 
 </details>
-
----
-
-## 🎯 Enfoque Actual
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Especializaci%C3%B3n-Android%20Nativo-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Nativo"/>
-  <img src="https://img.shields.io/badge/Arquitectura-Clean%20%26%20MVVM-00C851?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-FF6900?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
-</p>
-
-**💡 Perfeccionando:** Arquitecturas limpias y patrones de diseño avanzados en Android
-**🚀 Explorando:** Mejores prácticas en testing y optimización de rendimiento
-**🔍 Investigando:** Nuevas librerías y herramientas del ecosistema Android
 
 ---
 
@@ -277,28 +217,34 @@ Sistema web para gestión de feedback de clientes VIP y selección de premios po
 
 ---
 
-## 🌐 Contacto
+## 🎯 Enfoque Actual
 
 <p align="center">
-  <a href="https://diego-rubi.is-a.dev" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/drubico" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://img.shields.io/badge/Especializaci%C3%B3n-Android%20Nativo-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Android Nativo"/>
+  <img src="https://img.shields.io/badge/Arquitectura-Clean%20%26%20MVVM-00C851?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/UI-Jetpack%20Compose-FF6900?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
 </p>
+
+**💡 Perfeccionando:** Arquitecturas limpias y patrones de diseño avanzados en Android
+**🚀 Explorando:** Mejores prácticas en testing y optimización de rendimiento
+**🔍 Investigando:** Nuevas librerías y herramientas del ecosistema Android
+
+---
+
+## 🎓 Formación Académica
+
+- **Universidad Centroamericana José Simeón Cañas**
+  Carrera en Ingeniería Informática (2017 — Presente)
+  Énfasis en desarrollo de software, seguridad informática y arquitecturas de sistemas.
+
+---
+
+## 🗣️ Idiomas
 
 <p align="center">
-  <a href="mailto:drubico@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://play.google.com/store/apps/dev?id=5906834204268116327" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
+  <img src="https://img.shields.io/badge/Español-Nativo-brightgreen?style=flat-square" alt="Español"/>
+  <img src="https://img.shields.io/badge/English-Intermedio-blue?style=flat-square" alt="English"/>
 </p>
-
-**📍 Ubicación:** San Salvador, El Salvador
-**✉️ Email:** [drubico@gmail.com](mailto:drubico@gmail.com)
 
 ---
 
@@ -312,4 +258,10 @@ Si buscas un desarrollador móvil apasionado y experimentado, o tienes un proyec
 
 <p align="center">
     <img src="./assets/images/placeholder-play-store.png" alt="Google Play" width="500">
+</p>
+
+<p align="center">
+  <a href="https://diego-rubi.is-a.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visita%20mi%20Portfolio-diego--rubi.is--a.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Web" width="300"/>
+  </a>
 </p>
