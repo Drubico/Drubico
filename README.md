@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://diego-rubi.is-a.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=3DDC84&center=true&vCenter=true&width=560&lines=Desarrollador+M%C3%B3vil+Senior+%7C+Android+%26+Kotlin;Especialista+en+Jetpack+Compose+%26+Clean+Architecture;Soluciones+M%C3%B3viles+de+Alto+Impacto+%26+Fintech;2+Apps+Publicadas+en+Google+Play+Store+%E2%AD%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=3DDC84&center=true&vCenter=true&width=560&lines=Desarrollador+M%C3%B3vil+Senior+%7C+Android+%26+Kotlin;Especialista+en+Jetpack+Compose+%26+Clean+Architecture;Soluciones+M%C3%B3viles+de+Alto+Impacto+%26+Fintech;Apps+M%C3%B3viles+en+Producci%C3%B3n+%7C+Salario+SV+%E2%AD%90" alt="Typing SVG" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ He liderado e implementado soluciones de software de impacto crítico a nivel na
 
 | 📱 Google Play | 💼 Experiencia | ⚡ Rendimiento | 🏛️ Sector Público & Privado |
 | :---: | :---: | :---: | :---: |
-| **2 Apps en Producción**<br>Calificación +4.0 ⭐ | **+4 Años**<br>Especialista Android Nativo | **-40% Latencia**<br>Optimización en apps críticas | **Presidencia, MINSAL & PBS**<br>Soluciones a escala nacional |
+| **Apps en Producción**<br>Salario SV en Play Store ⭐ | **+4 Años**<br>Especialista Android Nativo | **-40% Latencia**<br>Optimización en apps críticas | **Presidencia, MINSAL & PBS**<br>Soluciones a escala nacional |
 
 ---
 
@@ -152,14 +152,10 @@ He liderado e implementado soluciones de software de impacto crítico a nivel na
     <td width="50%" valign="top">
       <h3 align="center">⚽ Dires Cup</h3>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.drubi.diresCup" target="_blank">
-          <img src="./assets/images/direscup.png" alt="Dires Cup" width="100%" />
-        </a>
+        <img src="./assets/images/direscup.png" alt="Dires Cup" width="100%" />
       </p>
       <p align="center">
-        <a href="https://play.google.com/store/apps/details?id=com.drubi.diresCup" target="_blank">
-          <img src="https://img.shields.io/badge/Google_Play-Disponible-01875F?style=for-the-badge&logo=google-play&logoColor=white" alt="Play Store"/>
-        </a>
+        <img src="https://img.shields.io/badge/Sports_Tech-Gestión_Deportiva-E65100?style=for-the-badge&logo=target&logoColor=white" alt="Sports Tech"/>
       </p>
       <p><b>Plataforma de seguimiento y administración de torneos deportivos amateur.</b> Tablas de clasificación en vivo, fixtures de partidos y estadísticas individuales de jugadores.</p>
       <ul>
