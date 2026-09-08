@@ -150,24 +150,23 @@ He liderado e implementado soluciones de software de impacto crítico a nivel na
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚽ Dires Cup</h3>
+      <h3 align="center">🌐 Salario SV Web</h3>
       <p align="center">
-        <img src="./assets/images/direscup.png" alt="Dires Cup" width="100%" />
+        <img src="./assets/images/salariosv-web.webp" alt="Salario SV Web" width="100%" />
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Sports_Tech-Gestión_Deportiva-E65100?style=for-the-badge&logo=target&logoColor=white" alt="Sports Tech"/>
+        <img src="https://img.shields.io/badge/Web_App-Cálculo_Salarial-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web App"/>
       </p>
-      <p><b>Plataforma de seguimiento y administración de torneos deportivos amateur.</b> Tablas de clasificación en vivo, fixtures de partidos y estadísticas individuales de jugadores.</p>
+      <p><b>Plataforma web de alta precisión para el ecosistema laboral de El Salvador.</b> Desarrollada con React 19 y TypeScript, ofrece simulaciones financieras instantáneas con estricto apego a las leyes fiscales y laborales salvadoreñas.</p>
       <ul>
-        <li>✨ Marcadores y estadísticas sincronizadas en tiempo real.</li>
-        <li>✨ Gestión integral de jornadas, goles y tablas de posiciones.</li>
-        <li>✨ Arquitectura reactiva con StateFlow y Room.</li>
+        <li>✨ Cálculo de salario neto con deducciones oficiales de ISSS, AFP y Renta.</li>
+        <li>✨ Calculadora inversa, cálculo de aguinaldo y vacaciones.</li>
+        <li>✨ Salarios mínimos por sector, visualización salarial y modo oscuro.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpack-compose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room_DB-4285F4?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
